@@ -1,3 +1,4 @@
+```
 id |            title             |                     details                      | priority |         created_at         |    completed_at     
 ----+------------------------------+--------------------------------------------------+----------+----------------------------+---------------------
  1 | Make Dinner                  |                                                  |        1 | 2017-08-28 15:27:45.104987 |
@@ -26,3 +27,4 @@ id |            title             |                     details                 
 25 | take nap again               | take a long nap                                  |        3 | 2017-08-29 10:23:54        |
 26 | Purchase flight suit         | do this in june                                  |        3 | 2017-06-15 10:23:54        |
 (25 rows)
+```
